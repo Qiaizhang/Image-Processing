@@ -1,5 +1,7 @@
 # OpenCV
 
+![Image text](https://github.com/Qiaizhang/OpenCV/blob/master/%E6%BB%A4%E9%95%9C/processing.png)
+
 主要针对数字图像进行常规处理：
 
 （1）几何处理（Geometrical Image Processing）
