@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "inheritEnvironments": [
+        "msvc_x86"
+      ],
+      "name": "x86-Debug",
+      "includePath": [
+        "X:\\opencv\\opencv\\build\\include\\opencv2\\imgproc",
+        "X:\\opencv\\opencv\\build\\include\\opencv2\\highgui",
+        "X:\\opencv\\opencv\\build\\include\\opencv2\\core",
+        "X:\\opencv\\opencv\\build\\include\\opencv2",
+        "X:\\opencv\\opencv\\build\\include\\opencv2",
+        "${env.INCLUDE}",
+        "${workspaceRoot}\\**"
+      ],
+      "defines": [
+        "WIN32",
+        "_DEBUG",
+        "UNICODE",
+        "_UNICODE"
+      ],
+      "intelliSenseMode": "windows-msvc-x86"
+    }
+  ]
+}
